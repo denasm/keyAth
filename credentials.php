@@ -1,6 +1,6 @@
 <?php
 
-$name = "";         // Application Name
-$ownerid = "";      // Application OwnerID
+$name = "FREE PLAIN";         // Application Name
+$ownerid = "b93fhy8sKY";      // Application OwnerID
 
 ?>
